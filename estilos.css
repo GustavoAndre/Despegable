@@ -4,8 +4,8 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #111111;
-    color: white;
+    background-color: white;
+    color: black;
     font-family: 'Helvetica',arial,sans-serif;
 }
 a{
@@ -28,8 +28,8 @@ a:hover{
 .seccionToggle{
     display: none;
     height: calc(100vh - 50px);
-    background: #fff;
-    color: #001f3f;
+    background: black;
+    color: whitesmoke;
     padding: 50px 0;
     text-align: center;
 }
@@ -38,9 +38,9 @@ a:hover{
     line-height: 50px;
     font-size: 24px;
     font-weight: bold;
-    color: #000;
+    color: white;
     display: block;
-    background: #FFDC00;
+    background: darkorchid;
     text-align: center;
 }
 h2{
